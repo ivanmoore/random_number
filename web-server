@@ -1,6 +1,6 @@
 #!/bin/sh
 
-output="{ \"value\": 4 }"
+output="{ \"value\": \"Many thanks Samir and Rob\" }"
 
 echo >&2 'Super-complex enterprise server application initialising...'
 echo >&2 'Still going...'
