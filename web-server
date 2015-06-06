@@ -1,11 +1,9 @@
 #!/bin/sh
 
-output='{ "message": "Hello, world!" }'
+output="{ \"value\": \"$RANDOM\" }"
 
 echo >&2 'Super-complex enterprise server application initialising...'
-sleep 15
 echo >&2 'Still going...'
-sleep 15
 echo >&2 'Server initialised.'
 
 while true; do

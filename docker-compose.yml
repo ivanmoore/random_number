@@ -1,0 +1,4 @@
+zero2continuousdeployment:
+    build: .
+    ports:
+     - "8080:8080"
