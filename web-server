@@ -1,6 +1,6 @@
 #!/bin/sh
 
-output="{ \"value\": \"$RANDOM\" }"
+output="{ \"value\": 874328942 }"
 
 echo >&2 'Super-complex enterprise server application initialising...'
 echo >&2 'Still going...'
