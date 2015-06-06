@@ -1,6 +1,6 @@
 #!/bin/sh
 
-output="{ \"value\": 42524 }"
+output="{ \"value\": 78678 }"
 
 echo >&2 'Super-complex enterprise server application initialising...'
 echo >&2 'Still going...'
